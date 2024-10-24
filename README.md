@@ -11,7 +11,7 @@ A React-based task management application with a Java backend.
 ## Run Task Management UI
 
 ```bash
-  npm run dev
+  npm start
 ```
 
 ## The Screenshot of Task Management UI 
