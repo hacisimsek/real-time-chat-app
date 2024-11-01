@@ -1,4 +1,4 @@
-# Task Management Application
+# Real Time Chat Application
 
 A React-based task management application with a Java backend.
 
