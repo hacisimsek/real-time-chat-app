@@ -1,7 +1,6 @@
 # Real Time Chat Application
 
-A React-based task management application with a Java backend.
-
+A scalable chat system using Java WebSockets and React for the frontend.
 
 ## Run The Spring Boot Project
 
